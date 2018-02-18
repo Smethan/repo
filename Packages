@@ -1,3 +1,17 @@
+Package: com.electricespeon.mterminalelectrafied
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Ethan Hargus
+Filename: deb/MTerminal.deb
+Size: 220068
+MD5sum: ce71837060bb71397800952f2e1572da
+SHA1: 10de182ed43ae74e175e8fdadb3d8d21247844bb
+SHA256: 06eea05f8c291ac2962dc1d1811c3a37fdb8413704b8e292ca38a9406d9bd249
+Section: Utilities
+Description: Terminal for electra!
+Author: Ethan Hargus
+Name: MTerminalElectrafied
+
 Package: com.electricespeon.simpletweak
 Version: 0.0.2-6+debug
 Architecture: iphoneos-arm
@@ -37,10 +51,10 @@ Maintainer: Elias Limneos <limneoselias@gmail.com>
 Installed-Size: 1804
 Depends: mobilesubstrate, preferenceloader
 Filename: deb/BioProtect.deb
-Size: 586040
-MD5sum: 929a205dc70750bcdac19eb3e17e691d
-SHA1: 6218c482b83a1d918b076abe65be0ba3f1bc331d
-SHA256: 641db5bc16c6a6fb3833ae35056a12e45fa1c55f7ce06458dff49dceb3c53834
+Size: 586248
+MD5sum: cd593e2798788eb621d2e53491878b48
+SHA1: 94caa4eb33039c8558c3323394d2b87f5cfef173
+SHA256: b00bfb17cf433b7d8af041935d843176662e6197756d06ad0f017d39256a1aa8
 Section: Tweaks
 Description: Protect your apps with Touch/Face ID!
 Author: Elias Limneos <limneoselias@gmail.com>
