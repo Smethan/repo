@@ -1,14 +1,14 @@
 Package: com.electricespeon.simpletweak
-Version: 0.0.2-4+debug
+Version: 0.0.2-5+debug
 Architecture: iphoneos-arm
 Maintainer: Ethan Hargus
 Installed-Size: 120
 Depends: mobilesubstrate
-Filename: deb/com.electricespeon.simpletweak_0.0.2-4+debug_iphoneos-arm.deb
-Size: 3482
-MD5sum: 769f4b8bdb028e9a266da3c0d561ad34
-SHA1: f13270d8b7a67e11fd70bf5080c838b4cdb80563
-SHA256: e544b4a88379d317ad0459db403d87657ab2001deece3fef873f1e014acf7219
+Filename: deb/com.electricespeon.simpletweak_0.0.2-5+debug_iphoneos-arm.deb
+Size: 4370
+MD5sum: 1b06ba79c848aad78e30690b31ef98a7
+SHA1: 7f47ad0f1095bafcdd8f24ce1de2927093aec15c
+SHA256: 2cd0ec3629f15397e8e55ca17f4198ab63fb83d2861393dc6c79ee92b48db64c
 Section: Tweaks
 Description: Tells you you took a screenshot
 Author: Ethan Hargus
@@ -38,9 +38,9 @@ Installed-Size: 1804
 Depends: mobilesubstrate, preferenceloader
 Filename: deb/BioProtect.deb
 Size: 586040
-MD5sum: 856d4c89eac673bfb681b168ad100a96
-SHA1: 3e69d63c3d1db68274ff4466106a06be85e9d38f
-SHA256: 577674e91d5fc62dbe43efd7920d4278c6a00358aff433e96c7046e3b7e101f5
+MD5sum: c54d384df496b8c852ff6bea8b832878
+SHA1: a9c0b1692dab09ccd427ed62a8f9db8535ed1ecb
+SHA256: 53604e965d619423888bf2b956e1045bfa459d326395facc2a53f9b95db8f693
 Section: Tweaks
 Description: Protect your apps with Touch/Face ID!
 Author: Elias Limneos <limneoselias@gmail.com>
