@@ -1,3 +1,4 @@
 compile-repo
 Release-Template
 uncompiled-packages/
+.DS_STORE

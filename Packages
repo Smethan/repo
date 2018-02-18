@@ -10,7 +10,7 @@ MD5sum: 239006498cd8b223905252b601803d81
 SHA1: 8c93d59bacfc129d879cfac4abdf7e1b364b91f2
 SHA256: 82c0d409a3e84bae4f501a983acb51ba7022a77e5e6624761af889210af96d93
 Section: Tweaks
-Description: This is a test tweak
+Description: An awesome MobileSubstrate tweak!
 Author: Ethan Hargus
 Name: simpletweak
 

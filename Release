@@ -1,20 +1,20 @@
-Origin: Ethan Hargus
+Origin: ElectricEspeon's Beta Repo
 
-Label: Simple Tweak
+Label: E's Beta Repo
 
-Suite: Beta
+Suite: stable
 
 Version: 0.1
 
-Codename: STweak
+Codename: FurryFucker
 
 Architectures: iphoneos-arm
 
 Components: main
 
-Description: This is a repo, right
+Description: This is a repo, right?
 
 MD5Sum:
 4494f0ad88a818b111472c74116650dd 505 Packages
-7604ae3d869ffb9064ff69c8880455b9 359 Packages.gz
+8c583f946e9a1bdb67ae586c8db0c7fa 359 Packages.gz
 44a904ef5b55b481eb264c4d0e55ab4f 388 Packages.bz2
