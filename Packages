@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: Ethan Hargus
 Filename: deb/MTerminal.deb
 Size: 220068
-MD5sum: bdd0d0c83933075c09b996dbb67acf3b
-SHA1: a3ee6a4175a9b1f3bfea1f6f1f6184d828f4d4d5
-SHA256: 26f49d50957a7e596897dc923f80cd84d0783d72b7be51a9c92f45476adb85a9
+MD5sum: 9b91f862fa4dfae98aefe9821ee5f5a4
+SHA1: 27c937d05605ed1f9fa4595d76a4603cbc59c462
+SHA256: 6752061600bed55a8a413848cb32e4db5ccd1ec1377c97b73439f184b48f36df
 Section: Utilities
 Description: Terminal for electra!
 Author: Ethan Hargus
@@ -45,16 +45,16 @@ Author: Ethan Hargus
 Name: simpletweak
 
 Package: net.limneos.bioprotect
-Version: 2.2-2
+Version: 2.2-3
 Architecture: iphoneos-arm
 Maintainer: Elias Limneos <limneoselias@gmail.com>
 Installed-Size: 1804
 Depends: mobilesubstrate, preferenceloader
 Filename: deb/BioProtect.deb
-Size: 585268
-MD5sum: b31fc734cf0d41822cee9c6579652b2b
-SHA1: c07b635af749658e88abc4244eb5b7f1ffffc623
-SHA256: 2bb6175775cef49e81e1e22e0e7a9ecbffae4063e386d46cd5ffc6b5c7928a2a
+Size: 585272
+MD5sum: 65a4ec7ff9b3ac7a36c8fccbbb351617
+SHA1: 5527df627d86e286c1719ba1e633d14d316de1fe
+SHA256: 21e5c33cea99e264d723c923dc4d7fcccff8f4977b770f0b4beb21cf8b048c7b
 Section: Tweaks
 Description: Protect your apps with Touch/Face ID!
 Author: Elias Limneos <limneoselias@gmail.com>
