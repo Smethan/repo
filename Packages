@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: Ethan Hargus
 Filename: deb/MTerminal.deb
 Size: 220068
-MD5sum: b1f16d2a79791b0ce65b9ef07cfe866d
-SHA1: 55d24bf80613d7491e6ee9d0577afab1242b00c9
-SHA256: c5a4a526f386e2ee5569a1b52dd5d11ea68408cc7dd678f5517df143a3d28842
+MD5sum: 3b43330f59611c703563d4e23e2ec197
+SHA1: 5f9ea03675cf3e39f87a41531509bede4966a7c5
+SHA256: 1afba5fb77944738a69e1dc33d39d6994a55053401063feddc3d8cf8cfa0684d
 Section: Utilities
 Description: Terminal for electra!
 Author: Ethan Hargus
@@ -44,6 +44,27 @@ Description: An awesome MobileSubstrate tweak!
 Author: Ethan Hargus
 Name: simpletweak
 
+Package: net.angelxwind.appsyncunified
+Version: 6.1
+Architecture: iphoneos-arm
+Maintainer: Karen／明美 (angelXwind) <angelXwind@angelxwind.net>
+Installed-Size: 256
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178
+Replaces: us.hackulo.appsync50
+Provides: appsync
+Filename: deb/net.angelxwind.appsyncunified_6.1_iphoneos-arm.deb
+Size: 28856
+MD5sum: d9ffc6ed52c8adbe21eb7cca53876caf
+SHA1: 83b1f4bee46668c15e659b8abc49e6721ac1f06f
+SHA256: bf09d11bb131a39c247e941a9ea5a37ef9d1039e3cf66b89ba54a3135fbd2468
+Section: Tweaks
+Homepage: http://cydia.angelxwind.net/
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Author: Linus Yang, Karen／明美 <angelXwind@angelxwind.net>
+Depiction: https://cydia.angelxwind.net/?page/net.angelxwind.appsyncunified
+Name: AppSync Unified
+
 Package: net.limneos.bioprotect
 Version: 2.2-3
 Architecture: iphoneos-arm
@@ -52,9 +73,9 @@ Installed-Size: 1804
 Depends: mobilesubstrate, preferenceloader
 Filename: deb/BioProtect.deb
 Size: 585272
-MD5sum: 15d59f2d6dd27dbb505656a747a000f0
-SHA1: 87a97c8d9c549e4086e1919f09c6c5a9c80f2f72
-SHA256: 5e454f13ea4433802b4b53e22a0272573c90a6a696dcfa3fa2f35a6fac1bf23c
+MD5sum: b0f0e8994729e5b3036fa3d489ea8f93
+SHA1: 2e0dec69f66b1b0aa3ddd391dfaa00e1e4e20f6a
+SHA256: 9447ed0a1b683902e5b544c96ce329012c5ac91e7e8508a4d7afdad837ee2d17
 Section: Tweaks
 Description: Protect your apps with Touch/Face ID!
 Author: Elias Limneos <limneoselias@gmail.com>
