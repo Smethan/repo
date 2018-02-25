@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: Ethan Hargus
 Filename: deb/MTerminal.deb
 Size: 220068
-MD5sum: 37549f6460c941e308d87bdb4e5d21f1
-SHA1: b45d8174a34277d326b3cd7da0f748448373525a
-SHA256: c15381558990d167403369e5ea51fde535d94ec72ccac280b588e8fe4bf6acda
+MD5sum: 262e608936c40efba32cf515da668e48
+SHA1: b3eee814bb8db71437b44b2e81553fe4e40b3acd
+SHA256: 079bc33f3d98872d1925301587eda8b81e89ca0ed0d1ee5f5e506e7888262e74
 Section: Utilities
 Description: Terminal for electra!
 Author: Ethan Hargus
@@ -27,6 +27,27 @@ Section: Tweaks
 Description: Tells you you took a screenshot
 Author: Ethan Hargus
 Name: simpletweak
+
+Package: com.linusyang.appinst
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Karen／明美 <angelXwind@angelxwind.net>
+Pre-Depends: firmware (>= 5.0)
+Depends: net.angelxwind.appsyncunified (>= 5.1)
+Conflicts: com.sull.appinstaller
+Filename: deb/appinst.deb
+Size: 56952
+MD5sum: 712d2ba7665b26c056a8f87988b3e288
+SHA1: f73efedb890ab2e2eb33326a54a8b649c3ff66bc
+SHA256: 18fd7bceb659ae1e4239dbeada04480b821a0a064a3fc4970888cc338182e2da
+Section: Utilities
+Priority: standard
+Homepage: https://github.com/angelXwind/AppSync
+Description: Install IPAs from the command line
+Tag: role::enduser, purpose::console
+Author: Linus Yang <laokongzi+appsync@gmail.com>
+Depiction: https://cydia.angelxwind.net/?page/com.linusyang.appinst
+Name: appinst (App Installer)
 
 Package: com.yourcompany.simpletweak
 Version: 0.0.1-1+debug
@@ -72,10 +93,10 @@ Maintainer: Elias Limneos <limneoselias@gmail.com>
 Installed-Size: 1804
 Depends: mobilesubstrate, preferenceloader
 Filename: deb/BioProtect.deb
-Size: 585272
-MD5sum: 3146bc053fdd0934201cc2894a4548cc
-SHA1: e22402e18f9f3b2b6920ac5a1b98d4cbdf73aa6a
-SHA256: 4f119c82dff6a53c4903272b91240a18954542fe8067fc03a6f669dc1ad9c609
+Size: 585756
+MD5sum: 9dbcbf132133a1cec8410553e475433e
+SHA1: d46f870ece4594ab4ff3167391e1771fd4390f57
+SHA256: 6c1c8171275de15f5309e67aabea868591e78132f88e8c10d6bd538537529e0c
 Section: Tweaks
 Description: Protect your apps with Touch/Face ID!
 Author: Elias Limneos <limneoselias@gmail.com>
