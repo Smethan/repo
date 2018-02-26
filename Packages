@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: Ethan Hargus
 Filename: deb/MTerminal.deb
 Size: 220068
-MD5sum: e9881a6fc99359c988d8ef744dcd7c84
-SHA1: d54694feadd2872408cef3df70cb3d03c541ebde
-SHA256: eb7504081e24ac384aa382cb82519081ef6e39ad0d849aa2744602f71c2a686c
+MD5sum: c461f37bb2e45f361a5a4b2f93da4a04
+SHA1: d0b5a655b1cc0797df2b1decbf92d6aaa5540fbd
+SHA256: d07e377ad188fdf5143dca2fea5533d7b25312036dae54edf1880ce160ac8033
 Section: Utilities
 Description: Terminal for electra!
 Author: Ethan Hargus
@@ -37,9 +37,9 @@ Depends: net.angelxwind.appsyncunified (>= 5.1)
 Conflicts: com.sull.appinstaller
 Filename: deb/appinst.deb
 Size: 56952
-MD5sum: 0ac47333c5d78b56e27908f2041f4d63
-SHA1: d7ff45901533f5dd718775af8c57f0dcf2c04fc2
-SHA256: dccbf08e7f455b4eed11a26fcca3c594b2e3914a9ad3c350216e2a78ca508b17
+MD5sum: d5275eaad1b166b37ba9cf135fe90f5f
+SHA1: aa51950e91e9bbd6ded4215953e222296d4b89b9
+SHA256: da7f139aac6ef4768bf1d19e532e0a23f5e2927072b66963071392f3f9f6915e
 Section: Utilities
 Priority: standard
 Homepage: https://github.com/angelXwind/AppSync
@@ -64,6 +64,24 @@ Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: Ethan Hargus
 Name: simpletweak
+
+Package: me.alfhaily.cercube
+Version: 4.2.1.6
+Architecture: iphoneos-arm
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2
+Filename: deb/Cercube.deb
+Size: 2965168
+MD5sum: a6a327d40d0ccdfc21d05b9276656171
+SHA1: af04bfadc505fc0fde6dfc31ab21b5d45209a630
+SHA256: f64a7fb938ceec0e51c8016b8dfad88a0b1973e2f65df1805d7e0ac8a175bddd
+Section: Tweaks
+Priority: optional
+Description: Download YouTube videos and more!
+Author: Majd Alfhaily
+Depiction: http://apt.alfhaily.me/depictions/cercube
+Icon: file:///Library/Application Support/Cercube/Cercube.bundle/AppIcon.png
+Name: Cercube for YouTube
 
 Package: net.angelxwind.appsyncunified
 Version: 6.2
@@ -94,9 +112,9 @@ Installed-Size: 1804
 Depends: mobilesubstrate, preferenceloader
 Filename: deb/BioProtect.deb
 Size: 585632
-MD5sum: 1a04ac3b9a6057952c95506416a58d05
-SHA1: 78e8d65ba98810208ffd364c3d11b9c365f62cc5
-SHA256: ec004809624a3a2f4a4dad5abb3c41f8d967981b6489fc6a8d9da98c524173b4
+MD5sum: bf3936dff221fc4869faf6f628c77b5b
+SHA1: b9d779044cfe1e8a0bc1c53444bb1154d6e38c76
+SHA256: 5ef58c59e30e9d785ed7fd319e2761fb4b473715d109b3b28e9cc7188d30d6c5
 Section: Tweaks
 Description: Protect your apps with Touch/Face ID!
 Author: Elias Limneos <limneoselias@gmail.com>
