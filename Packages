@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: Ethan Hargus
 Filename: deb/MTerminal.deb
 Size: 220068
-MD5sum: 262e608936c40efba32cf515da668e48
-SHA1: b3eee814bb8db71437b44b2e81553fe4e40b3acd
-SHA256: 079bc33f3d98872d1925301587eda8b81e89ca0ed0d1ee5f5e506e7888262e74
+MD5sum: e9881a6fc99359c988d8ef744dcd7c84
+SHA1: d54694feadd2872408cef3df70cb3d03c541ebde
+SHA256: eb7504081e24ac384aa382cb82519081ef6e39ad0d849aa2744602f71c2a686c
 Section: Utilities
 Description: Terminal for electra!
 Author: Ethan Hargus
@@ -37,9 +37,9 @@ Depends: net.angelxwind.appsyncunified (>= 5.1)
 Conflicts: com.sull.appinstaller
 Filename: deb/appinst.deb
 Size: 56952
-MD5sum: 712d2ba7665b26c056a8f87988b3e288
-SHA1: f73efedb890ab2e2eb33326a54a8b649c3ff66bc
-SHA256: 18fd7bceb659ae1e4239dbeada04480b821a0a064a3fc4970888cc338182e2da
+MD5sum: 0ac47333c5d78b56e27908f2041f4d63
+SHA1: d7ff45901533f5dd718775af8c57f0dcf2c04fc2
+SHA256: dccbf08e7f455b4eed11a26fcca3c594b2e3914a9ad3c350216e2a78ca508b17
 Section: Utilities
 Priority: standard
 Homepage: https://github.com/angelXwind/AppSync
@@ -93,10 +93,10 @@ Maintainer: Elias Limneos <limneoselias@gmail.com>
 Installed-Size: 1804
 Depends: mobilesubstrate, preferenceloader
 Filename: deb/BioProtect.deb
-Size: 585756
-MD5sum: 9dbcbf132133a1cec8410553e475433e
-SHA1: d46f870ece4594ab4ff3167391e1771fd4390f57
-SHA256: 6c1c8171275de15f5309e67aabea868591e78132f88e8c10d6bd538537529e0c
+Size: 585632
+MD5sum: 1a04ac3b9a6057952c95506416a58d05
+SHA1: 78e8d65ba98810208ffd364c3d11b9c365f62cc5
+SHA256: ec004809624a3a2f4a4dad5abb3c41f8d967981b6489fc6a8d9da98c524173b4
 Section: Tweaks
 Description: Protect your apps with Touch/Face ID!
 Author: Elias Limneos <limneoselias@gmail.com>
