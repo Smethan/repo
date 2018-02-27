@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: Ethan Hargus
 Filename: deb/MTerminal.deb
 Size: 220068
-MD5sum: 3195d0c7feed484acc68a416a4713bd8
-SHA1: aad3a0330224bdfc663e6fee7e8cf6306e30d2e8
-SHA256: b3150b5c7542139b0f998b1510701a6d892f2c80f318e6cfa6f4ec2393f2c775
+MD5sum: 951262eb1ec79db2f2d3eb19c9b97483
+SHA1: 9e3480e1614380195e9cbf5e522a38bdb68cf57e
+SHA256: 7723317137c983f3e56f051a6dc1c5d828aef87a96df3663f470be8d025be32f
 Section: Utilities
 Description: Terminal for electra!
 Author: Ethan Hargus
@@ -27,27 +27,6 @@ Section: Tweaks
 Description: Tells you you took a screenshot
 Author: Ethan Hargus
 Name: simpletweak
-
-Package: com.linusyang.appinst
-Version: 1.2
-Architecture: iphoneos-arm
-Maintainer: Karen／明美 <angelXwind@angelxwind.net>
-Pre-Depends: firmware (>= 5.0)
-Depends: net.angelxwind.appsyncunified (>= 5.1)
-Conflicts: com.sull.appinstaller
-Filename: deb/appinst.deb
-Size: 56952
-MD5sum: 7317eaae332374f49cf28437adda89dd
-SHA1: 9c512eb2a306a115117aeb93b97c9fa21a7069a1
-SHA256: 12539849a4b4270c80560be113d78dadd1e5b01d634877b9b3952567d70f8433
-Section: Utilities
-Priority: standard
-Homepage: https://github.com/angelXwind/AppSync
-Description: Install IPAs from the command line
-Tag: role::enduser, purpose::console
-Author: Linus Yang <laokongzi+appsync@gmail.com>
-Depiction: https://cydia.angelxwind.net/?page/com.linusyang.appinst
-Name: appinst (App Installer)
 
 Package: com.yourcompany.simpletweak
 Version: 0.0.1-1+debug
@@ -72,9 +51,9 @@ Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap
 Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2
 Filename: deb/Cercube.deb
 Size: 25496504
-MD5sum: 2b2f9f4cf48db2ed7b26524b83e093e9
-SHA1: 332c62c716ec86f11b7d3cb6a3c5e4db35212b57
-SHA256: c23e10269b7fc145fd8fcb959d3293a2a45af9a926630b77b325b42539e9bb22
+MD5sum: 75e549186659f6be20787a669eef5b50
+SHA1: 82f9e9f5f0d4006b1b88c72982fe364fba97f16a
+SHA256: b20887e0872fdc28dfb804cfaa288cafe4e14bb7881ddaa17c8f50a5cf722ac3
 Section: Tweaks
 Priority: optional
 Description: Download YouTube videos and more!
@@ -83,7 +62,7 @@ Depiction: http://apt.alfhaily.me/depictions/cercube
 Name: Cercube for YouTube
 
 Package: net.angelxwind.appsyncunified
-Version: 6.2
+Version: 6.1
 Architecture: iphoneos-arm
 Maintainer: Karen／明美 (angelXwind) <angelXwind@angelxwind.net>
 Installed-Size: 256
@@ -91,11 +70,11 @@ Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100)
 Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178
 Replaces: us.hackulo.appsync50
 Provides: appsync
-Filename: deb/net.angelxwind.appsyncunified_6.2_iphoneos-arm.deb
-Size: 28850
-MD5sum: e1dfb6403bb68f3b0655ea463faf23cd
-SHA1: d656a2ac38685f4074acf515dfc37f2d8eabea61
-SHA256: d32fb003f2f1f4443897f9bcb40315c90faa7300f631f1a6eb39e36cdfdd5ac2
+Filename: deb/net.angelxwind.appsyncunified_6.1_iphoneos-arm.deb
+Size: 28856
+MD5sum: d9ffc6ed52c8adbe21eb7cca53876caf
+SHA1: 83b1f4bee46668c15e659b8abc49e6721ac1f06f
+SHA256: bf09d11bb131a39c247e941a9ea5a37ef9d1039e3cf66b89ba54a3135fbd2468
 Section: Tweaks
 Homepage: http://cydia.angelxwind.net/
 Description: Enables the ability to install unsigned/fakesigned iOS applications.
@@ -111,9 +90,9 @@ Installed-Size: 1804
 Depends: mobilesubstrate, preferenceloader
 Filename: deb/BioProtect.deb
 Size: 585632
-MD5sum: 574d9dee85c487dd9346f5a2d7358e3c
-SHA1: e13317873953f23d5f7ae4fffeb1904243422389
-SHA256: f3b4b20edbdeeb20ce2223218b8078ccd36131a261a0c1851e33faf0b21e1b56
+MD5sum: 52cb8e1eb08f3bda56cd1483270dd61e
+SHA1: fc1e679f93f08c21ea848856c58d4f49b623814a
+SHA256: 9a25ff79a5d13f1a77609fc5b8e3de97508d3126c5b29941c6d252c22a133878
 Section: Tweaks
 Description: Protect your apps with Touch/Face ID!
 Author: Elias Limneos <limneoselias@gmail.com>
