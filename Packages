@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: Ethan Hargus
 Filename: deb/MTerminal.deb
 Size: 220068
-MD5sum: 951262eb1ec79db2f2d3eb19c9b97483
-SHA1: 9e3480e1614380195e9cbf5e522a38bdb68cf57e
-SHA256: 7723317137c983f3e56f051a6dc1c5d828aef87a96df3663f470be8d025be32f
+MD5sum: dee0025ddd88d40c7497e5f317a2efcd
+SHA1: c20174854645eba8f90a69bf798a294664ec16d0
+SHA256: 78b56a09485b89d3dc64680c9cbcd9033d8ecff773c26ad37395f47da938a760
 Section: Utilities
 Description: Terminal for electra!
 Author: Ethan Hargus
@@ -51,9 +51,9 @@ Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap
 Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2
 Filename: deb/Cercube.deb
 Size: 25496504
-MD5sum: 75e549186659f6be20787a669eef5b50
-SHA1: 82f9e9f5f0d4006b1b88c72982fe364fba97f16a
-SHA256: b20887e0872fdc28dfb804cfaa288cafe4e14bb7881ddaa17c8f50a5cf722ac3
+MD5sum: 69edd83d4e9a52e05bf8081d3326f040
+SHA1: ed16a503d80682cbe2bcf45df7286ffe76967339
+SHA256: b1983e9e7a5bc8a2ec0fb14ad2bf4b817dde8f27a4edb4b72f89ebfc04ff20eb
 Section: Tweaks
 Priority: optional
 Description: Download YouTube videos and more!
@@ -90,9 +90,9 @@ Installed-Size: 1804
 Depends: mobilesubstrate, preferenceloader
 Filename: deb/BioProtect.deb
 Size: 585632
-MD5sum: 52cb8e1eb08f3bda56cd1483270dd61e
-SHA1: fc1e679f93f08c21ea848856c58d4f49b623814a
-SHA256: 9a25ff79a5d13f1a77609fc5b8e3de97508d3126c5b29941c6d252c22a133878
+MD5sum: ef45e34144e3a695aa9b2f36a073896c
+SHA1: 3a5cd8b6a0e0b65d1b8914b06445bfe69b416eea
+SHA256: 26a69af9207a9054572242eb380bf43026c2d194a24128c5510372080d6e476f
 Section: Tweaks
 Description: Protect your apps with Touch/Face ID!
 Author: Elias Limneos <limneoselias@gmail.com>
