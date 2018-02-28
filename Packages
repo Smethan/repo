@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: Ethan Hargus
 Filename: deb/MTerminal.deb
 Size: 220068
-MD5sum: dee0025ddd88d40c7497e5f317a2efcd
-SHA1: c20174854645eba8f90a69bf798a294664ec16d0
-SHA256: 78b56a09485b89d3dc64680c9cbcd9033d8ecff773c26ad37395f47da938a760
+MD5sum: b1a8249e8bbe3bb0d3377b1c8beeea9b
+SHA1: 620984988d6d601979c951424d3f7270382d4c37
+SHA256: 4b3e68181a933e5c40407a308036a64750e2fe496761c6f0d1b9d90b9f0cc49e
 Section: Utilities
 Description: Terminal for electra!
 Author: Ethan Hargus
@@ -51,36 +51,15 @@ Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap
 Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2
 Filename: deb/Cercube.deb
 Size: 25496504
-MD5sum: 69edd83d4e9a52e05bf8081d3326f040
-SHA1: ed16a503d80682cbe2bcf45df7286ffe76967339
-SHA256: b1983e9e7a5bc8a2ec0fb14ad2bf4b817dde8f27a4edb4b72f89ebfc04ff20eb
+MD5sum: ebd85ddc18e69ad5f6539ca7ee205e98
+SHA1: 1566f2cc1680ea4ba2e3a129920016417926bcd9
+SHA256: c3ce24eee57aac7b50089336e3057b45aac5a700f068a384290b8469b463dbe4
 Section: Tweaks
 Priority: optional
 Description: Download YouTube videos and more!
 Author: Majd Alfhaily
 Depiction: http://apt.alfhaily.me/depictions/cercube
 Name: Cercube for YouTube
-
-Package: net.angelxwind.appsyncunified
-Version: 6.1
-Architecture: iphoneos-arm
-Maintainer: Karen／明美 (angelXwind) <angelXwind@angelxwind.net>
-Installed-Size: 256
-Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100)
-Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178
-Replaces: us.hackulo.appsync50
-Provides: appsync
-Filename: deb/net.angelxwind.appsyncunified_6.1_iphoneos-arm.deb
-Size: 28856
-MD5sum: d9ffc6ed52c8adbe21eb7cca53876caf
-SHA1: 83b1f4bee46668c15e659b8abc49e6721ac1f06f
-SHA256: bf09d11bb131a39c247e941a9ea5a37ef9d1039e3cf66b89ba54a3135fbd2468
-Section: Tweaks
-Homepage: http://cydia.angelxwind.net/
-Description: Enables the ability to install unsigned/fakesigned iOS applications.
-Author: Linus Yang, Karen／明美 <angelXwind@angelxwind.net>
-Depiction: https://cydia.angelxwind.net/?page/net.angelxwind.appsyncunified
-Name: AppSync Unified
 
 Package: net.limneos.bioprotect
 Version: 2.2-3
@@ -90,9 +69,9 @@ Installed-Size: 1804
 Depends: mobilesubstrate, preferenceloader
 Filename: deb/BioProtect.deb
 Size: 585632
-MD5sum: ef45e34144e3a695aa9b2f36a073896c
-SHA1: 3a5cd8b6a0e0b65d1b8914b06445bfe69b416eea
-SHA256: 26a69af9207a9054572242eb380bf43026c2d194a24128c5510372080d6e476f
+MD5sum: c1a04bfb5e585652794f21ab4d73aa7e
+SHA1: c4f227c6d1b09bd9622507acd58306fb475da2ea
+SHA256: 1298fc2982b5a96d13812f39047617a687d9aee666e67f36bb3d8f80de2ec834
 Section: Tweaks
 Description: Protect your apps with Touch/Face ID!
 Author: Elias Limneos <limneoselias@gmail.com>
