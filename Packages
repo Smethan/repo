@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: Ethan Hargus
 Filename: deb/MTerminal.deb
 Size: 220068
-MD5sum: b1a8249e8bbe3bb0d3377b1c8beeea9b
-SHA1: 620984988d6d601979c951424d3f7270382d4c37
-SHA256: 4b3e68181a933e5c40407a308036a64750e2fe496761c6f0d1b9d90b9f0cc49e
+MD5sum: 3dca80834348c2fcd95c91756c467f4f
+SHA1: 2fe5ef96edadc33ac0d1ecd94c48284ac0322d91
+SHA256: 7368f453de4ae18fece1ad78b71ec46907d150f47b9f1637fe3da9d5c2eb956d
 Section: Utilities
 Description: Terminal for electra!
 Author: Ethan Hargus
@@ -44,23 +44,6 @@ Description: An awesome MobileSubstrate tweak!
 Author: Ethan Hargus
 Name: simpletweak
 
-Package: me.alfhaily.cercube
-Version: 5.2.8.9
-Architecture: iphoneos-arm
-Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap
-Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2
-Filename: deb/Cercube.deb
-Size: 25496504
-MD5sum: ebd85ddc18e69ad5f6539ca7ee205e98
-SHA1: 1566f2cc1680ea4ba2e3a129920016417926bcd9
-SHA256: c3ce24eee57aac7b50089336e3057b45aac5a700f068a384290b8469b463dbe4
-Section: Tweaks
-Priority: optional
-Description: Download YouTube videos and more!
-Author: Majd Alfhaily
-Depiction: http://apt.alfhaily.me/depictions/cercube
-Name: Cercube for YouTube
-
 Package: net.limneos.bioprotect
 Version: 2.2-3
 Architecture: iphoneos-arm
@@ -69,9 +52,9 @@ Installed-Size: 1804
 Depends: mobilesubstrate, preferenceloader
 Filename: deb/BioProtect.deb
 Size: 585632
-MD5sum: c1a04bfb5e585652794f21ab4d73aa7e
-SHA1: c4f227c6d1b09bd9622507acd58306fb475da2ea
-SHA256: 1298fc2982b5a96d13812f39047617a687d9aee666e67f36bb3d8f80de2ec834
+MD5sum: 35bff57e6dc3cf6f6178edc4e41e08a5
+SHA1: eb603f0dc9a512706498409fdeb5019c2f95334d
+SHA256: aed23487df823a1aacefe51792e47ee907e2331ddcfa94edfc451958eee14e90
 Section: Tweaks
 Description: Protect your apps with Touch/Face ID!
 Author: Elias Limneos <limneoselias@gmail.com>
