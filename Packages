@@ -1,14 +1,30 @@
+Package: com.elecrticespeon.ezbattery
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm
+Maintainer: ElectricEspeon
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: deb/com.elecrticespeon.ezbattery_0.0.1-2+debug_iphoneos-arm.deb
+Size: 19372
+MD5sum: 81e834d899b37f2ae8830a83b2bfa3ba
+SHA1: fbab219c3697b31b0c0b89b3287890f980f93c65
+SHA256: ffc572daf357c0d0dab0b76f9afa640eeef48107d98ed114dc662b0e6f0631a2
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: ElectricEspeon
+Name: EzBattery
+
 Package: com.electricespeon.ezbattery
-Version: 0.0.1-1+debug
+Version: 0.0.1-2+debug
 Architecture: iphoneos-arm
 Maintainer: ElectricEspeon
 Installed-Size: 128
 Depends: mobilesubstrate
-Filename: deb/com.electricespeon.ezbattery_0.0.1-1+debug_iphoneos-arm.deb
-Size: 7418
-MD5sum: 213b083ff030f54f3cacc9653e3872eb
-SHA1: 32609553aaf82656d5fa1e1fdea4b2340bf914da
-SHA256: 30e350e2b19a37d05b96967757bfa9b7f115a6e1ae1a0fb00f728d2c3f86f155
+Filename: deb/com.electricespeon.ezbattery_0.0.1-2+debug_iphoneos-arm.deb
+Size: 6744
+MD5sum: be2b04338566025ceac18a19656c6b69
+SHA1: 11e7dcf9e926fe3a7ed838546df142e093fcf5f5
+SHA256: eca0ec2b566f64c5368305bde1a824930fb019eb11f64800e7d293510536684d
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: ElectricEspeon
@@ -36,9 +52,9 @@ Architecture: iphoneos-arm
 Maintainer: Ethan Hargus
 Filename: deb/MTerminal.deb
 Size: 220068
-MD5sum: cc0430e43b0cb84a6469a9f9320c8b47
-SHA1: d04946a36fbaee1b5a22b13be9ea3f5ec96f89bd
-SHA256: cf31b5c9197617ccef6b637ae99b68ed681ea7d839ed8a9e47cc622b43176746
+MD5sum: f3f7aee3e2ae10a8d51b796e50929cca
+SHA1: 615e540d4906ae23b44b218196a873bb728d525f
+SHA256: 656a4b13830d93ee66ed0caa14d1ba8dd6005fed100cc7825bc43661f8a66b05
 Section: Utilities
 Description: Terminal for electra!
 Author: Ethan Hargus
@@ -100,9 +116,9 @@ Installed-Size: 1804
 Depends: mobilesubstrate, preferenceloader
 Filename: deb/BioProtect.deb
 Size: 585632
-MD5sum: 549fe4ef860ca0c7b2c912c7e7f96f4b
-SHA1: 4f9719fae2cef579f0d106ca9b818152502f55a0
-SHA256: 83c77bad0e5eebef7a40776a49316f0ec01b8e7b5aacc8334ae457ffe75182c9
+MD5sum: a99aea67552f643638320b1f1a4ceb31
+SHA1: 29a07212767ab5729575b1cf4297ca832a0b7a16
+SHA256: c9ab4568ea70642f7be28eb9a7be8c4c845b0aec93bf8f7e7b768224f6bce45f
 Section: Tweaks
 Description: Protect your apps with Touch/Face ID!
 Author: Elias Limneos <limneoselias@gmail.com>
