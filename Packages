@@ -4,25 +4,25 @@ Architecture: iphoneos-arm
 Maintainer: Ethan Hargus
 Filename: deb/MTerminal.deb
 Size: 220068
-MD5sum: 38e99775599463aeba5f4195bc74ed4b
-SHA1: 56ec02b9e3b6284366437283c28893480e7319e8
-SHA256: a0351ee41df12bff085d643710201e2fbed6063f4780c1573cf007a7fbe2faaf
+MD5sum: 28fbe61ff0f1d49f442ffddeb4d53b0f
+SHA1: 73c927300b149b7f66485354a3bbed86878bf59c
+SHA256: 552f594b14c67c95f93aa7db8581c5aedeac9012f1b7cf249a5bf7a3aff75f45
 Section: Utilities
 Description: Terminal for electra!
 Author: Ethan Hargus
 Name: MTerminalElectrafied
 
 Package: com.electricespeon.palertxi
-Version: 0.0.1-1+debug
+Version: 0.0.1-2+debug
 Architecture: iphoneos-arm
 Maintainer: Ethan Hargus
 Installed-Size: 120
 Depends: mobilesubstrate
-Filename: deb/com.electricespeon.palertxi_0.0.1-1+debug_iphoneos-arm.deb
-Size: 2958
-MD5sum: c97b9704b7d140430c40345b6e1ed3fd
-SHA1: c078de96176d5aebe74482b2f1ce0b0337edd6e4
-SHA256: fb784afeb80b74f7d4ae04575d93a2f30ae3734ebdcea3dc06be6b9c68942b76
+Filename: deb/com.electricespeon.palertxi_0.0.1-2+debug_iphoneos-arm.deb
+Size: 3116
+MD5sum: 9cd2bbf9db0f5454fe18e073d2fc0828
+SHA1: 545afdbc3a1119ff846dbc64914cd01312e18ec0
+SHA256: dc2f1da9380a4631be9d1dbcff942ecb832a2d605b49ee026c96772f3af68e26
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: Ethan Hargus
@@ -68,9 +68,9 @@ Installed-Size: 1804
 Depends: mobilesubstrate, preferenceloader
 Filename: deb/BioProtect.deb
 Size: 585632
-MD5sum: 70cab67994daadd039f5ba98643cd602
-SHA1: 5b1f20504e796ee903a96d1fd7e31a61d50979d0
-SHA256: 422eeac532b015fa39ef02aeacd7a5058e9836951ba1a7ce69e72ac1ec06e347
+MD5sum: 6e414313c3c8e74c8acd8b808d1796d6
+SHA1: 368ee189d3b28c16f8e17b29defea0dc57be144c
+SHA256: 9e69fa8759e141b6779fbc456bc581be7d0e73baf6ba402b5ca16021b6529d46
 Section: Tweaks
 Description: Protect your apps with Touch/Face ID!
 Author: Elias Limneos <limneoselias@gmail.com>
