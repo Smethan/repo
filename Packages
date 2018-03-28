@@ -1,14 +1,14 @@
 Package: com.elecrticespeon.ezbattery
-Version: 0.0.1-2+debug
+Version: 0.0.1-3+debug
 Architecture: iphoneos-arm
 Maintainer: ElectricEspeon
 Installed-Size: 172
 Depends: mobilesubstrate
-Filename: deb/com.elecrticespeon.ezbattery_0.0.1-2+debug_iphoneos-arm.deb
-Size: 19372
-MD5sum: 81e834d899b37f2ae8830a83b2bfa3ba
-SHA1: fbab219c3697b31b0c0b89b3287890f980f93c65
-SHA256: ffc572daf357c0d0dab0b76f9afa640eeef48107d98ed114dc662b0e6f0631a2
+Filename: deb/com.elecrticespeon.ezbattery_0.0.1-3+debug_iphoneos-arm.deb
+Size: 19382
+MD5sum: 14acbc6ad6edeefe90704bf0d26e92fc
+SHA1: c3acbb991f310b353a23d51f5cfd32e35f4e309e
+SHA256: 4cac6a3e4b4cf5132162828534863332870f027865d43a22b74934e0adfdcc92
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: ElectricEspeon
@@ -36,9 +36,9 @@ Architecture: iphoneos-arm
 Maintainer: Ethan Hargus
 Filename: deb/MTerminal.deb
 Size: 220068
-MD5sum: e5c98daf4b71f1f4d9ec1346f6bf6d68
-SHA1: e5bff8c426d7c5fcfd2f23caf0ec6cf2510b9013
-SHA256: 673ff30bd97a4ece53655ad2a6d2161855e4a948d30b0eec0808d3dcd827eea4
+MD5sum: aeec4fb3f9f2afc1e9d08ac28069bbd5
+SHA1: 9e155fed546ddc9a6ff13e9c33586b63ebfaa368
+SHA256: 422b096dfbb3bb33e417297b35b249049e476e3e7b24313c86426dd59558cf45
 Section: Utilities
 Description: Terminal for electra!
 Author: Ethan Hargus
@@ -100,9 +100,9 @@ Installed-Size: 1804
 Depends: mobilesubstrate, preferenceloader
 Filename: deb/BioProtect.deb
 Size: 585632
-MD5sum: a7d49edd1bebd8016f939a5ed5f0c567
-SHA1: f97c571a71af78a7c4fe678c3186ef1ec2b2d428
-SHA256: 17d0cf502c159dad127c2abf667f42592a0bf20d1e56b04d8424a9839e55f84a
+MD5sum: dd970bf2da982dc1ae69ece9bd8e18aa
+SHA1: 0330060fdfb15acdda310e62987a02ca4d8677d4
+SHA256: ddffb38728797775e9e51c4596f03c02cc2058b0ddd97970e402756df7b734e7
 Section: Tweaks
 Description: Protect your apps with Touch/Face ID!
 Author: Elias Limneos <limneoselias@gmail.com>
