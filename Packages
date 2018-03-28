@@ -1,12 +1,28 @@
+Package: com.electricespeon.justdrawsomething
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm
+Maintainer: Ethan Hargus
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: deb/com.electricespeon.justdrawsomething_0.0.1-2+debug_iphoneos-arm.deb
+Size: 3156
+MD5sum: 1afe5b397d707fd61d57696a7d8b1487
+SHA1: 85d91af224dbaa4a374b823e096dcf6c7f60055c
+SHA256: 53d0b43e85cee28682d18229877bb4ddb1a12d4a1e9819fbb15059b18d4dd1e5
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Ethan Hargus
+Name: JustDrawSomething
+
 Package: com.electricespeon.mterminalelectrafied
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Ethan Hargus
 Filename: deb/MTerminal.deb
 Size: 220068
-MD5sum: 28fbe61ff0f1d49f442ffddeb4d53b0f
-SHA1: 73c927300b149b7f66485354a3bbed86878bf59c
-SHA256: 552f594b14c67c95f93aa7db8581c5aedeac9012f1b7cf249a5bf7a3aff75f45
+MD5sum: 1decfaae53a0736b2d4e807ec80999a1
+SHA1: 974c017121a0e517e166c78418c1c021568b6b54
+SHA256: dd00252efbd1c1d08bd63b39072f3171145716a75ed098920a63b48c23dc3138
 Section: Utilities
 Description: Terminal for electra!
 Author: Ethan Hargus
@@ -68,9 +84,9 @@ Installed-Size: 1804
 Depends: mobilesubstrate, preferenceloader
 Filename: deb/BioProtect.deb
 Size: 585632
-MD5sum: 6e414313c3c8e74c8acd8b808d1796d6
-SHA1: 368ee189d3b28c16f8e17b29defea0dc57be144c
-SHA256: 9e69fa8759e141b6779fbc456bc581be7d0e73baf6ba402b5ca16021b6529d46
+MD5sum: dc2d6743b3011bf71b121ce66b71f8ce
+SHA1: 2c95ef5dfce75e55954d71827175dae59b698862
+SHA256: 19c92477776eba0752bc051305722c411dfd05d1c4c94c3908bbcaae120c8fc3
 Section: Tweaks
 Description: Protect your apps with Touch/Face ID!
 Author: Elias Limneos <limneoselias@gmail.com>
